@@ -1,5 +1,5 @@
 PIKMINTEA - RULES
-EFFECTIVE DATE: 03/06/2026
+EFFECTIVE DATE: 03:06:2026
 
 VIBE "CODING"
 As of the beginning of 03/06/2026, "vibe coding" is strictly prohibited for all PikminTea applications.
