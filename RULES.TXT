@@ -1,4 +1,4 @@
-PIKMINTEA - RULES
+PIKMINTEA - RULES (v9)
 
 VIBE "CODING"
 As of the beginning of 03/06/2026, "vibe coding" is strictly prohibited for all PikminTea applications.
