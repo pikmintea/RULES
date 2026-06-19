@@ -1,4 +1,4 @@
-PIKMINTEA - RULES (v9)
+PIKMINTEA - RULES (v1.0)
 
 VIBE "CODING"
 As of the beginning of 03/06/2026, "vibe coding" is strictly prohibited for all PikminTea applications.
@@ -20,7 +20,7 @@ CODE RULES
 - Under no circumstances should complete modules, repositories, or production codebases be shared externally.
 
 SECURITY
-- Any violation of these rules may result in removal of repository access or project privileges and termination.
+- Any violation of these rules may result in removal of the repository access, contributor privileges, or participation in the project.
 - Security and intellectual property protection are top priorities.
 
 DEVELOPMENT :
